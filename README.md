@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @botkesaksham
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning basics of C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me ...
 
 <!---
