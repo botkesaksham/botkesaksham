@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @botkesaksham
-- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me ...
 
