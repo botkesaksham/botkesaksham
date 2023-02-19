@@ -4,16 +4,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botkesaksham" alt="botkesaksham" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/sakshambotke" target="blank"><img src="https://img.shields.io/twitter/follow/sakshambotke?logo=twitter&style=for-the-badge" alt="sakshambotke" /></a> </p>
+
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, Javascript, Python, C++**
+- 💬 Ask me about **HTML, CSS, JavaScript, Python, C, C++**
 
 - 📫 How to reach me **sakshambotke099@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sakshambotke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sakshambotke" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sakshambotke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshambotke" height="30" width="40" /></a>
+<a href="https://medium.com/@sakshambotke099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sakshambotke099" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +29,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=botkesaksham&show_icons=true&locale=en&layout=compact" alt="botkesaksham" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botkesaksham&" alt="botkesaksham" /></p>
+
