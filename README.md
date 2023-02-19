@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saksham Botke</h1>
 <h3 align="center">A passionate Frontend Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botkesaksham" alt="botkesaksham" /></a> </p>
 
@@ -15,6 +15,8 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 https://medium.com/@sakshambotke099/8-best-mind-bending-movies-e76b7d8356e
+
+
 https://medium.com/@sakshambotke099/5-songs-to-listen-while-stargazing-789a199e06e2
 <!-- BLOG-POST-LIST:END -->
 
