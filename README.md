@@ -2,15 +2,13 @@
 <h3 align="center">A passionate Frontend Web Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botkesaksham" alt="botkesaksham" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sakshambotke" target="blank"><img src="https://img.shields.io/twitter/follow/sakshambotke?logo=twitter&style=for-the-badge" alt="sakshambotke" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, C, C++**
 
-- 📫 How to reach me **sakshambotke099@gmail.com**
+- 📫 How to reach me **sakshambotke099@gmail.com** 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
