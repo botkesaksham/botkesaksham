@@ -1,6 +1,7 @@
 <h1 align="center">Hi👋, I'm Saksham Botke</h1>
 <h3 align="center">I'm a Student and a Budding Frontend Web Developer from India</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![Visitor Count](https://profile-counter.glitch.me/{botkesaksham}/count.svg)
 
 <p align="left"> <a href="https://twitter.com/sakshambotke" target="blank"><img src="https://img.shields.io/twitter/follow/sakshambotke?logo=twitter&style=for-the-badge" alt="sakshambotke" /></a> </p>
 
