@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/sakshambotke" target="blank"><img src="https://img.shields.io/twitter/follow/sakshambotke?logo=twitter&style=for-the-badge" alt="sakshambotke" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Python, C, C++**
 
