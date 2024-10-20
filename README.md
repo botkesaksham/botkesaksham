@@ -13,7 +13,9 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 https://medium.com/@sakshambotke099/8-best-mind-bending-movies-e76b7d8356e
+
 https://medium.com/@sakshambotke099/7-feel-good-movies-to-make-you-smile-61ef2352bead
+
 https://medium.com/@sakshambotke099/5-songs-to-listen-while-stargazing-789a199e06e2
 <!-- BLOG-POST-LIST:END -->
 
